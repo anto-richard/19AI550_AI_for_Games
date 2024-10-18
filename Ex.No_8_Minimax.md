@@ -1,4 +1,4 @@
-## <p align="center"> EX.NO : 6 -- IMPLEMENTATION OF MINIMAX SEARCH... </p>
+## <p align="center"> EX.NO : 8 -- IMPLEMENTATION OF MINIMAX SEARCH... </p>
 
 #### DATE : 12.09.2024                                                                          
 #### REGISTER NUMBER : 212221240005
