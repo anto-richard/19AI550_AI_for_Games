@@ -1,4 +1,4 @@
-## <p align="center"> EX.NO : 7 -- IMPLEMENTATION OF ALPHA BETA PRUNING... </p>
+## <p align="center"> EX.NO : 9 -- IMPLEMENTATION OF ALPHA BETA PRUNING... </p>
 
 ### DATE : 12.09.2024                                                                          
 ### REGISTER NUMBER : 212221240005
