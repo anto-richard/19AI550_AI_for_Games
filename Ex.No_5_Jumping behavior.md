@@ -1,7 +1,9 @@
 ## <p align="center"> EX.NO : 5 -- IMPLEMENTATION OF JUMP BEHAVIOUR... </p>
 
-#### DATE : 23.08.2024                                                                           
+#### DATE : 06.09.2024      
+#### NAME : Anto Richard. S
 #### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ### AIM :
 
