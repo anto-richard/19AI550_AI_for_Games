@@ -1,8 +1,9 @@
 ## <p align="center"> EX.NO : 2 -- IMPLEMENTATION OF STACK PLATE GAME USING QUEUE... </p>
 
-#### DATE : 16.08.2024      
+#### DATE : 09.08.2024      
 #### NAME : Anto Richard. S
 #### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ### AIM :
 
