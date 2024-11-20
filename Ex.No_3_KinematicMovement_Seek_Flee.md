@@ -1,8 +1,9 @@
 ## <p align="center"> EX.NO : 3 -- IMPLEMENTATION OF KINEMATIC MOVEMENT OF SEEK AND FLEE BEHAVIOURS... </p>
 
-#### DATE :  16.08.2024        
+#### DATE : 16.08.2024      
 #### NAME : Anto Richard. S
 #### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ### AIM : 
 
