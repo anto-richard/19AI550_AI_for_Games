@@ -1,7 +1,9 @@
 ## <p align="center"> EX.NO : 7 -- Implementation of Decision Tree Learning ... </p>
 
-## DATE : 18-10-2024
-## REGISTER NUMBER : 212221240005
+#### DATE : 20.09.2024      
+#### NAME : Anto Richard. S
+#### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ## Aim :
 
