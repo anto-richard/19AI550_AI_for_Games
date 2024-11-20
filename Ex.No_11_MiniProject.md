@@ -1,7 +1,9 @@
 ## <p align="center"> EX.NO : 11 -- Mini Project... </p>
 
-#### DATE : 06-11-2024                                                                         
+#### DATE : 25.10.2024      
+#### NAME : Anto Richard. S
 #### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ### Aim : 
 
