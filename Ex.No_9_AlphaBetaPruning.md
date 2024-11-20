@@ -1,7 +1,9 @@
 ## <p align="center"> EX.NO : 9 -- IMPLEMENTATION OF ALPHA BETA PRUNING... </p>
 
-### DATE : 12.09.2024                                                                          
-### REGISTER NUMBER : 212221240005
+#### DATE : 04.10.2024      
+#### NAME : Anto Richard. S
+#### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ### AIM : 
 
