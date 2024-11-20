@@ -1,7 +1,9 @@
 ## <p align="center"> EX.NO : 6 -- Implementation of Zombie survival game using A* search ... </p>
 
-### DATE : 5-10-2024
-### REGISTER NUMBER : 212221240005
+#### DATE : 13.09.2024      
+#### NAME : Anto Richard. S
+#### REGISTER NUMBER : 212221240005
+#### SLOT : 4H2-1
 
 ### Aim : 
 
